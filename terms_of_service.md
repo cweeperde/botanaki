@@ -1,6 +1,6 @@
 # Botanaki - Terms of Service
 
-**Last Updated:** [Date]
+**Last Updated:** 15.10.2024
 
 ## 1. Introduction  
 Welcome to botanaki! These Terms of Service ("ToS") govern your use of the botanaki Discord bot, which provides utility and moderation features for servers. By using botanaki, you agree to comply with these terms. If you do not agree, please refrain from using the bot.
@@ -34,7 +34,7 @@ Botanaki may suspend its functionalities for users or servers that engage in suc
 Botanaki does not offer any paid features or services. All functionalities are available for free, and there will be no future paid upgrades.
 
 ## 8. Liability  
-Botanaki is provided on an "as-is" basis. While we strive to keep the bot running smoothly, there is no guarantee of availability or functionality. **Cweeper** (Discord username) will not be liable for any loss, damage, or inconvenience resulting from the use or inability to use botanaki.
+Botanaki is provided on an "as-is" basis. While we strive to keep the bot running smoothly, there is no guarantee of availability or functionality. **cweeper** (Discord Bot Owner Username) will not be liable for any loss, damage, or inconvenience resulting from the use or inability to use botanaki.
 
 ## 9. Availability  
 While botanaki aims to provide 24/7 uptime, its availability depends on server and hosting resources. There is no guaranteed uptime, and the bot may experience downtime due to maintenance or other issues.
@@ -46,4 +46,4 @@ The ToS may be updated from time to time. It is the user’s responsibility to c
 No specific jurisdiction governs these Terms of Service. The bot is offered globally without adherence to any specific regional laws.
 
 ## 12. Termination of Access  
-No user will be banned or restricted from using botanaki. However, server owners may remove the bot at their discretion.
+No user will be banned or restricted from using botanaki. However, server owners may remove the bot at their discretion. The bot owner might also manually remove the bot from any servers if required.
